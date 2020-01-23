@@ -4,12 +4,12 @@ INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Rowdy"
 
 INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Tabitha", 6, "Male", "Brown", "Happy", "0");
 
-INSERT INTO bears () VALUES ("Sergeant Brown", 2000, "Female", "Black", "Anxious", "1
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Sergeant Brown", 2000, "Female", "Black", "Anxious", "1
 
-INSERT INTO bears (name TEXT, age INTEGER, gender TEXT, color TEXT, temperament TEXT, alive BOOLEAN) VALUES ("Melissa", 1, "Male", "Pink", "Angry", "0");
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Melissa", 1, "Male", "Pink", "Angry", "0");
 
-INSERT INTO bears (name TEXT, age INTEGER, gender TEXT, color TEXT, temperament TEXT, alive BOOLEAN) VALUES ("Grinch", 100, "Male", "Blue", "Chill", "0");
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Grinch", 100, "Male", "Blue", "Chill", "0");
 
-INSERT INTO bears (name TEXT, age INTEGER, gender TEXT, color TEXT, temperament TEXT, alive BOOLEAN) VALUES ("Wendy", 5, "Female", "Red", "Chill", "1");
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Wendy", 5, "Female", "Red", "Chill", "1");
 
-INSERT INTO bears (name TEXT, age INTEGER, gender TEXT, color TEXT, temperament TEXT, alive BOOLEAN) VALUES (NULL, 9000, "Female", "Grey", "Happy", "0");
+INSERT INTO bears () VALUES (NULL, 9000, "Female", "Grey", "Happy", "0");
