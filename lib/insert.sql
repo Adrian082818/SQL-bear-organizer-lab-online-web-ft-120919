@@ -12,4 +12,4 @@ INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Grinch
 
 INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Wendy", 5, "Female", "Red", "Chill", "1");
 
-INSERT INTO bears () VALUES (NULL, 9000, "Female", "Grey", "Happy", "0");
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES (NULL, 9000, "Female", "Grey", "Happy", "0");
