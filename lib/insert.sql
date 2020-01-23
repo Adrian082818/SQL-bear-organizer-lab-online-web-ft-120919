@@ -1,4 +1,4 @@
-INSERT INTO bears (name TEXT, age INTEGER, gender TEXT, color TEXT, temperament TEXT, alive BOOLEAN) VALUES ("Mr. Chocolate", 2, "Male", "White", "Laxed", "0");
+INSERT INTO bears (name, age, gender TEXT, color TEXT, temperament TEXT, alive BOOLEAN) VALUES ("Mr. Chocolate", 2, "Male", "White", "Laxed", "0");
 
 INSERT INTO bears (name TEXT, age INTEGER, gender TEXT, color TEXT, temperament TEXT, alive BOOLEAN) VALUES ("Rowdy", 24, "Male", "lavender", "angry", "0");
 
