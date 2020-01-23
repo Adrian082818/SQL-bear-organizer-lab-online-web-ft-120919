@@ -1,1 +1,1 @@
-INSERT INTO ()
+INSERT INTO (name TEXT, age INTEGER, gender TEXT, color TEXT, temperament TEXT, alive BOOLEAN) VALUE
